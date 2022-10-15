@@ -1,9 +1,9 @@
 # Инструкция для работы с Git и VSCode
 
 ## Ссылки для установки VSCode и Git
-1. https://code.visualstudio.com/download
+1. [Ссылка для загрузки VSCode](https://code.visualstudio.com/download)
 
-2. https://git-scm.com/downloads
+2. [Ссылка для загрузки Git](https://git-scm.com/downloads)
 
 ## Первое знакомство
 1. ***При запуске VSCode, проверить установку Git, командами git --version***
