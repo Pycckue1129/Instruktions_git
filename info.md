@@ -1,5 +1,7 @@
 # Инструкция для работы с Git и VSCode
 
+![](/gitvs.png)
+
 ## Ссылки для установки VSCode и Git
 1. [Ссылка для загрузки VSCode](https://code.visualstudio.com/download)
 
