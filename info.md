@@ -6,9 +6,9 @@
 2. https://git-scm.com/downloads
 
 ## Первое знакомство
-- ***При запуске VSCode, проверить установку Git, командами git --version***
-- ***Указать свое имя командой git config --global user.name «Ваше имя английскими буквами»***
-- ***Указать свой email командой git config --global user.email ваша почта@example.com***
+1. ***При запуске VSCode, проверить установку Git, командами git --version***
+2. ***Указать свое имя командой git config --global user.name «Ваше имя английскими буквами»***
+3. ***Указать свой email командой git config --global user.email ваша почта@example.com***
 
 
 ## Команды для работы с Git
